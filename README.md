@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Digao46
+- 👀 I’m interested in Games, Programming, Studying and a bit in Sports
+- 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJs
+- 📫 Email me on diogobatistavdc1@outlook.com
